@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, tôi là Minh</h1>
 <h3 align="center">Tôi đang là Back-End Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haminh7036" alt="haminh7036" /></a> </p>
+{{--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haminh7036" alt="haminh7036" /></a> </p>--}}
 
 - ⚡ Fun fact **I am Wibu**
 
