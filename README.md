@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, tôi là Minh</h1>
 <h3 align="center">Tôi đang là Back-End Developer</h3>
 
-- ⚡ Fun fact **I am Wibu**
+- ⚡ Fun fact **I am Wibu xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
