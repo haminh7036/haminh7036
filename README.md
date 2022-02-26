@@ -1,4 +1,5 @@
 <h1 align="center">Xin chào, tôi là Minh</h1>
+<h1 align="center">你好，我叫喝弟明。</h1>
 <h3 align="center">Tôi đang là Back-End Developer</h3>
 
 - ⚡ Fun fact **I am Wibu xD**
