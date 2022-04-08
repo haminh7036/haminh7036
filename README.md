@@ -1,6 +1,6 @@
 <h1 align="center">Xin chào, tôi là Minh</h1>
 <h1 align="center">你好，我叫喝弟明。我在Rivercrane公司工作。</h1>
-<h3 align="center">Tôi đang là Back-End Developer</h3>
+<h3 align="center">Tôi đang là Developer</h3>
 
 - ⚡ Fun fact **I am Wibu xD**
 
