@@ -12,4 +12,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haminh7036&hide=contribs,prs&count_private=true&show_icons=true&hide_rank=true" alt="haminh7036" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haminh7036&hide=contribs,prs&count_private=true&show_icons=true&hide_rank=true" alt="haminh7036" /></p> -->
