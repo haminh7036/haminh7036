@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào mọi người, tên của tớ là Minh.</h1>
-<h1 align="center">你好，我姓何叫弟明。你能叫我阿明。我在Rivercrane公司工作。</h1>
+<h1 align="center">你好，我姓何叫悌明。你能叫我阿明。我在Rivercrane公司工作。</h1>
 <h3 align="left">Tớ đang là Developer. Bởi vì thích hán ngữ nên tớ đang học hán ngữ.</h3>
 <h3 align="left">我是程序员。我喜欢汉语，所以我正在学习汉语。</h3>
 
