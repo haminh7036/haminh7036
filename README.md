@@ -1,9 +1,11 @@
 # 👋 Xin chào, tớ là Minh (明)
 
 > 🇻🇳 Tớ là Developer tại Rivercrane. Tớ thích và đang học Hán ngữ.  
-> 🇨🇳 你好，我姓何叫悌明。我是程序员，在 Rivercrane 工作。我喜欢汉语，所以我正在学习汉语。
+> 🇨🇳 你好，我是何悌明。在 Rivercrane 做程序员。我喜欢并正在学习汉语。
 
 ⚡ **Fun fact:** I am Wibu xD
+
+💻 **Tech:** Work with PHP | Exploring Go (Golang) & K3s 🚀
 
 ---
 
