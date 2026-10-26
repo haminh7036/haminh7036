@@ -4,7 +4,7 @@
 > 🇨🇳 你好，我是何悌明，一个做后端的。喜欢中文（已过 HSK 3），目前每天在多邻国打卡保连胜。
 
 - **Tech:** Working with `PHP` | Exploring `Go`
-- **OS & WM:** `Arch Linux` (Niri) • `CachyOS` (GNOME)
+- **OS & WM:** `Arch Linux` • `CachyOS` (Niri & Noctalia)
 - **Workflow:** `Neovim` • `Fish shell` • `Kitty` / `Ghostty`
 - **Fun fact:** Reading manhwa in my free time ☕
 
